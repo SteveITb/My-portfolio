@@ -30,5 +30,5 @@ Download my CV directly from the portfolio website.
 ## 📬 Contact
 Feel free to reach out for job opportunities or freelance projects.
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: https://github.com/SteveITb
+- LinkedIn: https://www.linkedin.com/in/stephine-ogweno-b58095235/
