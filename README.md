@@ -1,26 +1,34 @@
 # My-portfolio
-<div class="projects">
+# 🚀 Stephen Okoth – Frontend Web Developer Portfolio
 
-    <div class="project-card">
-        <h3>Student Management System</h3>
-        <p>
-            Designed and developed a web-based system to manage student records,
-            improving data organization and accessibility using HTML, CSS, and
-            JavaScript.
-        </p>
-        <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
-        <a href="#" class="btn secondary">GitHub</a>
-    </div>
+This is my personal portfolio website showcasing my skills, projects,
+and experience as a Frontend Web Developer.
 
-    <div class="project-card">
-        <h3>Gaming Centre Website</h3>
-        <p>
-            Built a responsive and visually engaging website to showcase gaming
-            services, pricing, and promotions, optimized for mobile and desktop
-            users.
-        </p>
-        <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
-        <a href="#" class="btn secondary">Live Demo</a>
-    </div>
+## 🔥 Features
+- Responsive, mobile-first design
+- Smooth scrolling & animations
+- Custom cursor & scroll progress bar
+- Downloadable CV
+- Contact form for freelance inquiries
 
-</div>
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub Pages
+
+## 📂 Projects
+- **Student Management System** – Web-based solution for managing student records
+- **Gaming Centre Website** – Responsive website for a gaming business
+
+## 🌍 Live Demo
+👉 https://YOUR_USERNAME.github.io/portfolio/
+
+## 📄 CV
+Download my CV directly from the portfolio website.
+
+## 📬 Contact
+Feel free to reach out for job opportunities or freelance projects.
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
