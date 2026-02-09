@@ -22,7 +22,7 @@ and experience as a Frontend Web Developer.
 - **Gaming Centre Website** – Responsive website for a gaming business
 
 ## 🌍 Live Demo
-👉 https://YOUR_USERNAME.github.io/portfolio/
+👉 https://SteveITb.github.io/My-portfolio/
 
 ## 📄 CV
 Download my CV directly from the portfolio website.
